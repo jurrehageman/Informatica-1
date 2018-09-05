@@ -1,0 +1,102 @@
+Hee Jurre,
+
+Dit is wat ik ongeveer in gedachten heb voor WC1. Dat betekent eigenlijk vooral even inleiden met IDLE en laten zien hoe ze code kunnen uitproberen, maar daarna zelf aan de slag. Het is uitdrukkelijk de bedoeling om, als ze zich iets afvragen, zich niet te houden aan de voorschriften. Ook hoeft niet alles af en is er geen druk om de antwoorden helemaal goed te hebben: er wordt niet beoordeeld (puur diagnostisch). Wel is het de bedoeling dat het programma aan het eind van de sessie wordt ingeleverd, zodat we kunnen zien wie waar gekomen is en wat voor begrip ze hebben van de verschillende aspecten die voorbijgekomen zijn. Ik probeer er nog wat aan vast te knutselen, maar als je opmerking, vragen, suggesties of aanvullingen hebt, dan hoor ik het graag.
+
+Voor HC1 heb ik eigenlijk alleen nog een vrij abstract overzicht :S Nu, dat heb ik in de loop van deze mail dan aardig geconcretiseerd… Zie onder. Het lijkt me goed om daar een deel van de les aandacht aan te besteden. Er zitten al een aantal onderwerpen van programmeren in genoemd en de bedoeling is om dat vaak genoeg te herhalen deze cursus. 
+
+De studenten hebben Robo Rally gespeeld bij de introductie en een sessie gehad met CodeCombat. Wat het programmeren betreft is daar naar terug te verwijzen. Ik wil voorstellen om na het doorlopen van de achtergrond zoals die beneden staat de basisonderwerpen nogmaals te benoemen, met voorbeelden van CodeCombat, waar je kunt aanwijzen dat ze ze al tegengekomen zijn: variabelen en functies, for/while loops en if/else statements (met indentatie), getallen (integers en floats) en strings (namen). Die dingen kun je tegelijkertijd in IDLE demonstreren, waarbij je dan ook even laat zien hoe je een 'Hello World!' programmaatje schrijft, opslaat en uitvoert (met iets van commentaar er in :) Geen shebang, geen chmod, geen argumenten.
+
+Dit is alles niet in steen gebeiteld en als je op punten of over de hele linie betere gedachten hebt, dan volg je die. Wel hoor ik graag wat er uiteindelijk gebeurd is.
+
+Groeten,
+
+Tsjerk
+
+###
+
+Overzicht:
+Welkom bij bioinformatica
+Wat voor werk gaat dat zijn 'bioinformaticus'?
+Wat heb je daarvoor nodig? —> Kennis van de data waar je mee werkt en kennis van informatica om die data te verwerken.
+Hoe zorgen we dat je van hier naar daar komt?:
+In jaar vier stage lopen en afstudeeronderzoek doen. Dan moet je al wat kunnen.
+In jaar drie binnen lessen bezig met problemen uit de praktijk.
+In jaar twee specifieke technieken leren, JAVA, genexpressie data en modelleren.
+In dit eerste jaar de basis daarvoor leggen.
+Het eerste jaar:
+Kwartaal 1: kennismaken met data en databases, de basis voor programmeren, biologie en chemie om te begrijpen waar het om gaat en hoe het inelkaar steekt en wiskunde om data te kunnen verwerken en te begrijpen.
+Kwartaal 2: visualisatie
+Kwartaal 3: van DNA naar organismen
+Kwartaal 4: genetica en statistiek
+Het eerste kwartaal:
+De themaopdracht: data en databases. Waar vind je dat, wat krijg je dan? Hoe zien die bestanden er uit en hoe verwerk je die met basis programmeren?
+Informatica: de basis van Python 3 met nadruk op lezen van bestanden
+Chemie: de bouwstenen: atomen, verbindingen, naamgeving
+Biologie: organismen en cellen 
+Wiskunde: de basis
+SLB: kennismaking met elkaar en met de organisatie
+Informatica
+Informatica betreft het aansturen van een computer om dingen te doen, door middel van een taal die de computer kan begrijpen.
+De taal bestaat uit (specifieke) woorden en regels (grammatica)
+Een computer is een rekenmachine (compute) en in de kern van programmeren zit altijd rekenen/wiskunde.
+Het belangrijkste voor programmeren is … nadenken!
+Ook belangrijk is gewoon dingen uitproberen
+Ook belangrijk is fouten maken (en er van leren)
+Informatica 1
+Onderwerpen:
+Verschillende soorten data:
+basis:
+hele getallen (integer)
+decimale getallen (float)
+text (string)
+booleans (bool)
+verzamelingen:
+lijsten (list) 
+tupels (tuple)
+woordenboek (dict)
+Rekenen
+operatoren: + - * / // %
+vergelijken: > < == >= <= is in not
+rekenregels: volgorde van verwerken (prioriteit)
+Herhaling: de for-loop
+Beslissingen: if/elif/else
+Functies
+Het lezen van bestanden
+Lessen:
+Hoorcolleges: demonstratie, uitleg, uitwerking van problemen, toelichting
+Werkcolleges: zelf aan de slag en samen doorlopen van problemen (huiswerk)
+Huiswerk:
+Programmeeropdrachten op het gebied van chemie, biologie, wiskunde en bioinformatica
+Volledig optioneel. Zestig personen die doorgaan naar het tweede jaar is toch teveel. Huiswerk is voor jezelf en wij zijn er om de problemen die je tegenkomt te helpen oplossen. :)
+Bronnen:
+We volgen geen boek. Het is wel aan te raden naast de lessen extra bronnen te raadplegen. Alles wat je extra doet op het gebied van programmeren maakt de hele opleiding makkelijker.
+Think Python (2nd edition), gratis te downloaden bij Green Tea Press 
+De officiele Python tutorial
+De w3schools Python tutorial
+codecademy
+codecombat
+rosalind.info
+Nota bene:
+Loop niet weg voor programmeren – als je partner het beter kan, leer dan van hem/haar hoe het moet en waarom.
+Als het goed gaat, help anderen – door te proberen het uit te leggen leer je het zelf beter.
+Vraag! - als je iets niet begrijpt of als je iets probeert en dat lukt niet (al dan niet in relatie tot dit vak of de themaopdracht).
+Beslis op tijd of dit jouw vak(gebied) is; moeilijk is niet het belangrijkste punt, maar vind je het leuk/uitdagend genoeg?
+Voor oktober kun je zondermeer overstappen naar een andere studie of stoppen (overstappen naar een andere opleiding van de Hanze kunnen we waarschijnlijk bij helpen, vraag je SLB'er)
+Voor februari kun je zonder al te veel consequenties stoppen
+In mei sluit de mogelijkheid om aan te melden voor sommige andere studie
+Bij Informatica 1:
+Stel jezelf bij elk onderwerp de volgende vragen en probeer toepassingen en redenen te vinden waarom de stof wordt aangeboden (dus probeer positief te antwoorden):
+Wat kan ik hiermee?
+Wat wil ik hiermee?
+Waarom zou ik dit doen? (een belangrijke vraag bij al je studie-/huiswerk)
+Wil ik dit eigenlijk wel?
+Waar leidt dit naar toe?
+Als je een antwoord niet ziet of begrijpt, vraag dan een medestudent of docent. Daarmee bied je ze de kans om beter te leren uitleggen :)
+Kijk vooruit: waar sta je en waar wil je heen? (Dit geldt zowel voor het schrijven van programma's als voor het volgen van een opleiding)
+Er is altijd ruimte voor eigen invulling
+Vind je zwakke kanten en ontwikkel die
+Vind je sterke kanten en ontwikkel die verder (jouw selling-point!)
+Help elkaar
+Geniet!
+
+
