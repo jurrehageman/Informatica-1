@@ -1,0 +1,43 @@
+/* main page */
+body{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    color:#3D3C3A;
+	margin-left:5%;
+}
+
+#small-fonts {
+    font-size:80%;
+}
+
+
+h1{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    color:#0000FF;
+}
+
+h2{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    color:#0000FF;
+}
+
+
+ul {
+          list-style-type: square;
+          color:#0000FF;
+}
+
+/* fluid model */
+#container {
+    margin: 0 30px;
+    background: #FFFFFF;
+}
+
+#content {
+    clear: left;
+    padding: 20px;
+}
+
+#header {
+    background-color: #abacab;
+    padding: 10px;
+}
