@@ -1,0 +1,17 @@
+basis:
+hele getallen (integer)
+decimale getallen (float)
+text (string)
+booleans (bool)
+verzamelingen:
+lijsten (list) 
+tupels (tuple)
+woordenboek (dict)
+Rekenen
+operatoren: + - * / // %
+vergelijken: > < == >= <= is in not
+rekenregels: volgorde van verwerken (prioriteit)
+Herhaling: de for-loop
+Beslissingen: if/elif/else
+Functies
+Het lezen van bestanden
