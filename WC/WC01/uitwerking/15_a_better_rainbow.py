@@ -11,7 +11,7 @@ def polygon(turt, sides, size=100):
 colors = ['red', 'orange', 'yellow', 'green', 'cyan', 'blue', 'magenta']
 
 for step in range(70):
-    index = step // len(colors)
+    index = int(step // (70/len(colors)))
     color = colors[ index ]
     don.color(color)
     polygon(don, 6)
