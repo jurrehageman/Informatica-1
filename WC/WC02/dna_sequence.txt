@@ -1,0 +1,4 @@
+>My_dna_sequence
+atcaggatggggatggagagaggaccaaccac
+acagagtagagagagaggagagagacaagata
+tatatttttatacccaggagagacagatagag
