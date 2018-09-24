@@ -1,7 +1,7 @@
 from random import randint,choice
 
 def main():
-    for x in range(10000):
+    for x in range(1000):
         seq= ""
         for x in range(20):
             bases = 'TCAG'

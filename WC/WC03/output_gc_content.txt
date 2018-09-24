@@ -1,0 +1,2 @@
+The sequence with the highest GC value is: GGGGCCCGGTGCCAGGGCGG
+The Highest GC percentage is: 90
