@@ -5,6 +5,7 @@ import sys
 
 #ask user input
 dna = "caacttttttt"
+#dna = input("Provide your sequence:")
 #now convert to upper:
 dna = dna.upper()
 #reverse
