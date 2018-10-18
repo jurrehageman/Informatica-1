@@ -1,0 +1,7 @@
+Write a small program that:
+- Generates a user given number of random DNA sequences of a user given length
+- Calculates the GC percentage for each sequence
+- Writes each sequence + the GC percentage to a file
+- Use functions
+- Use a main function
+- Use well organised code
